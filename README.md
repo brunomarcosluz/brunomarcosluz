@@ -1,10 +1,16 @@
+
 ### Hi! It's a pleasure recieve you here :smiley:
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=fddb3a&style=for-the-badge&logo=GHOST">
 
 <p>
 :hospital: Trainee at Hospital PUC-Campinas <br />
+
 :mortar_board: Student at UniMetrocamp
+</p>
+<p>
+ :mail-box: How to reach me:
+ ![]
 </p>
 
 <!--
