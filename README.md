@@ -9,7 +9,7 @@
 
 <p>
 
-<img src="https://simpleicons.org/icons/ghost.svg" alt="Ghost logo" width="20" height="20"> **Trainee** at Hospital PUC-Campinas <br />
+<img src="https://media.glassdoor.com/sqll/2486422/hospital-da-puc-campinas-squarelogo-1553578965994.png" alt="PUC logo" width="20" height="20"> **Trainee** at Hospital PUC-Campinas <br />
 
 <img src="https://cdn.worldvectorlogo.com/logos/ibmec-educacional-s-a.svg" alt="Ibmec logo" width="20" height="20"> **Computer Science** Student at UniMetrocamp
 
