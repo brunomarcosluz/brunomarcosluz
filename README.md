@@ -9,12 +9,11 @@
 
 <p>
 
-:hospital: **Trainee** at Hospital PUC-Campinas <br />
+<img src="https://simpleicons.org/icons/ghost.svg" alt="Ghost logo" width="20" height="20"> **Trainee** at Hospital PUC-Campinas <br />
 
-:mortar_board: **Computer Science** Student at UniMetrocamp
+<img src="https://cdn.worldvectorlogo.com/logos/ibmec-educacional-s-a.svg" alt="Ibmec logo" width="20" height="20"> **Computer Science** Student at UniMetrocamp
 
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="20" height="20" color="F7DF1E"> Currently studying **Javascript** and **Web Frameworks**
-
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="30" height="20"> Currently studying **Javascript** and **Web Frameworks*
 </p>
 
 ### Let's drink coffee together :speech_balloon::
