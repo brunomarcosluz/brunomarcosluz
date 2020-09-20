@@ -13,7 +13,8 @@
 
 <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/unimetrocamp-wyden.png" alt="Ibmec logo" width="20" height="20"> **Computer Science** Student at **UniMetrocamp**
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="30" height="20"> Currently studying **Javascript** and **Web Frameworks*
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="30" height="20"> Currently studying **Javascript** and **Web Frameworks**
+
 </p>
 
 ### Let's drink coffee together :speech_balloon::
