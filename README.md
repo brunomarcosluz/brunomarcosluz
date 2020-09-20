@@ -1,4 +1,4 @@
-#### Hi! It's a pleasure recieve you here :satisfied:
+### Hi! It's a pleasure recieve you here :relieved:
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=fddb3a&style=for-the-badge&logo=GHOST">
 
