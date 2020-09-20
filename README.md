@@ -25,6 +25,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-52575d?style=flat-square&logo=Instagram&logoColor=fddb3a&link=https://www.instagram.com/eusoubrunoluz/)](https://www.instagram.com/eusoubrunoluz/)
 
 <a href="https://github.com/brunomarcosluz/Learn-Javascript">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&theme=ayu-mirage"/>
 
 </a>
