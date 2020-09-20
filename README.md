@@ -1,10 +1,11 @@
 
-
+<!-- API Github Stats --> 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&theme=ayu-mirage">
 
-### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
-
+<!--Badge Overiew-->
 <img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=fddb3a&style=for-the-badge&logo=GHOST">
+
+### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
 
 <p>
 
@@ -13,7 +14,7 @@
 :mortar_board: **Computer Science** Student at UniMetrocamp
 </p>
 
-### :speech_balloon: Let's drink coffee together:
+### Let's drink coffee together :speech_balloon::
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-52575d?style=flat-square&logo=Gmail&logoColor=fddb3a&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-52575d?style=flat-square&logo=Linkedin&logoColor=fddb3a&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
