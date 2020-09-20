@@ -6,25 +6,17 @@
 <p>
 :hospital: Trainee at Hospital PUC-Campinas <br />
 
-:mortar_board: <bold>Computer Science<bold/> Student at UniMetrocamp
+:mortar_board: **Computer Science** Student at UniMetrocamp
 </p>
 
 ### 📫 How to reach me:
 
 [![Gmail Badge](https://img.shields.io/badge/-email-52575d?style=flat-square&logo=Gmail&logoColor=fddb3a&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-52575d?style=flat-square&logo=Linkedin&logoColor=fddb3a&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-52575d?style=flat-square&logo=YouTube&logoColor=fddb3a&link=https)]
 
-<!--
-**brunomarcosluz/brunomarcosluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p text-align="right">
 
-Here are some ideas to get you started:
+[![Bruno Luz github stats](https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&theme=vision-firendly-dark)](https://github.com/brunomarcosluz/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
