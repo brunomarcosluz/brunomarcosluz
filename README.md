@@ -9,9 +9,8 @@
 :mortar_board: Student at UniMetrocamp
 </p>
 <p>
- :mail-box: How to reach me:
  <img src="https://img.shields.io/static/v1?label=Mail&message=textme&color=D14836&style=flat-square&logo=https://simpleicons.org/icons/gmail.svg>
- 
+
 </p>
 
 <!--
