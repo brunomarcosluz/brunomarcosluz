@@ -2,11 +2,7 @@
 <!-- API Github Stats --> 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&theme=ayu-mirage">
 
-<div>
-
 <img align='bottom-right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarcosluz">
-
-</div>
 
 ### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
 
