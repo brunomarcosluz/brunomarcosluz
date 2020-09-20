@@ -9,9 +9,9 @@
 
 <p>
 
-<img src="https://media.glassdoor.com/sqll/2486422/hospital-da-puc-campinas-squarelogo-1553578965994.png" alt="PUC logo" width="20" height="20"> **Trainee** at Hospital PUC-Campinas <br />
+<img src="https://media.glassdoor.com/sqll/2486422/hospital-da-puc-campinas-squarelogo-1553578965994.png" alt="PUC logo" width="20" height="20"> **Trainee** at Hospital **PUC-Campinas** <br />
 
-<img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/unimetrocamp-wyden.png" alt="Ibmec logo" width="20" height="20"> **Computer Science** Student at UniMetrocamp
+<img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/unimetrocamp-wyden.png" alt="Ibmec logo" width="20" height="20"> **Computer Science** Student at **UniMetrocamp**
 
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="30" height="20"> Currently studying **Javascript** and **Web Frameworks*
 </p>
@@ -21,5 +21,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-52575d?style=flat-square&logo=Gmail&logoColor=fddb3a&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-52575d?style=flat-square&logo=Linkedin&logoColor=fddb3a&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-52575d?style=flat-square&logo=YouTube&logoColor=fddb3a&link=https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA?view_as=subscriber)](https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-52575d?style=flat-square&logo=Instagram&logoColor=fddb3a&link=https://www.instagram.com/eusoubrunoluz/)](https://www.instagram.com/eusoubrunoluz/)
 
 
