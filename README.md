@@ -23,3 +23,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-52575d?style=flat-square&logo=Linkedin&logoColor=fddb3a&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-52575d?style=flat-square&logo=YouTube&logoColor=fddb3a&link=https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA?view_as=subscriber)](https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-52575d?style=flat-square&logo=Instagram&logoColor=fddb3a&link=https://www.instagram.com/eusoubrunoluz/)](https://www.instagram.com/eusoubrunoluz/)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&theme=ayu-mirage)](https://github.com/brunomarcosluz/github-Learn-Javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Studio&theme=ayu-mirage)](https://github.com/brunomarcosluz/github-Black-Horse-Studio)
