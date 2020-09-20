@@ -1,5 +1,5 @@
 
-<img align='right' src="(https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&theme=shades-of-purple)">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&theme=shades-of-purple">
 
 ### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
 
