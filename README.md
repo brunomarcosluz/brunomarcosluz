@@ -24,4 +24,4 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-52575d?style=flat-square&logo=YouTube&logoColor=fddb3a&link=https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA?view_as=subscriber)](https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-52575d?style=flat-square&logo=Instagram&logoColor=fddb3a&link=https://www.instagram.com/eusoubrunoluz/)](https://www.instagram.com/eusoubrunoluz/)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarcosluz&layout=compact">
+<img align='right' width="160" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarcosluz">
