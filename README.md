@@ -27,7 +27,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&theme=ayu-mirage)](https://github.com/brunomarcosluz/github-Learn-Javascript)
 
-<a href="https://github.com/brunomarcosluz/brunomarcosluz">
+<a href="https://github.com/brunomarcosluz/Black-Horse-Stdio">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&theme=ayu-mirage">
 
