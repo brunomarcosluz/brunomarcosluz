@@ -1,12 +1,12 @@
 
-### Hi! It's a pleasure recieve you here. Coffee? :smiley::coffee:
+### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=fddb3a&style=for-the-badge&logo=GHOST">
 
 <p>
 :hospital: Trainee at Hospital PUC-Campinas <br />
 
-:mortar_board: Computer Science Student at UniMetrocamp
+:mortar_board: <bold>Computer Science<bold/> Student at UniMetrocamp
 </p>
 
 ### 📫 How to reach me:
