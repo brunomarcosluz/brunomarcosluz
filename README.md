@@ -29,5 +29,6 @@
 
 <a href="https://github.com/brunomarcosluz/brunomarcosluz">
 
-<img align="center-rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&theme=ayu-mirage">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&theme=ayu-mirage">
+
 </a>
