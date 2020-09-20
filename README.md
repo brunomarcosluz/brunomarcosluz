@@ -8,11 +8,8 @@
 
 :mortar_board: Student at UniMetrocamp
 </p>
-<p>
 
- <img src="https://img.shields.io/static/v1?label=Mail&message=textme&color=D14836&style=flat-square&logo=https://simpleicons.org/icons/gmail.svg>
-
-</p>
+[![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com)
 
 <!--
 **brunomarcosluz/brunomarcosluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
