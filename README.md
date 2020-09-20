@@ -1,5 +1,5 @@
 
-## Hi! It's a pleasure recieve you here. Coffee? :coffee:
+### Hi! It's a pleasure recieve you here. Coffee? :smiley::coffee:
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=fddb3a&style=for-the-badge&logo=GHOST">
 
@@ -11,7 +11,7 @@
 
 ### 📫 How to reach me:
 
-[![Gmail Badge](https://img.shields.io/badge/-email-52575d?style=flat-square&logo=Gmail&logoColor=fddb3a&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com) </br>
+[![Gmail Badge](https://img.shields.io/badge/-email-52575d?style=flat-square&logo=Gmail&logoColor=fddb3a&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-52575d?style=flat-square&logo=Linkedin&logoColor=fddb3a&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
 
 <!--
