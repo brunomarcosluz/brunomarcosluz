@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=fddb3a&style=for-the-badge&logo=GHOST">
 
-:hospital: Trainee at Hospital PUC-Campinas
+:hospital: Trainee at Hospital PUC-Campinas  
 :mortar_board: Student at UniMetrocamp
 
 <!--
