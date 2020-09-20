@@ -11,8 +11,8 @@
 
 ### 📫 How to reach me:
 
-:point_right:[![Gmail Badge](https://img.shields.io/badge/-email-52575d?style=flat-square&logo=Gmail&logoColor=fddb3a&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com)
-:point_right:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-52575d?style=flat-square&logo=Linkedin&logoColor=fddb3a&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/))
+:point_right:[![Gmail Badge](https://img.shields.io/badge/-email-52575d?style=flat-square&logo=Gmail&logoColor=fddb3a&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com) </br>
+:point_right:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-52575d?style=flat-square&logo=Linkedin&logoColor=fddb3a&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
 
 <!--
 **brunomarcosluz/brunomarcosluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
