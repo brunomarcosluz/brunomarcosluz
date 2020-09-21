@@ -26,12 +26,12 @@
 
 <a href="https://github.com/brunomarcosluz/Learn-Javascript">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&theme=ayu-mirage"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&theme=javascript"/>
 
 </a>
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&theme=ayu-mirage"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&theme=javascript"/>
 
 </a>
