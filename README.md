@@ -24,7 +24,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-52575d?style=flat-square&logo=Linkedin&logoColor=fddb3a&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-52575d?style=flat-square&logo=YouTube&logoColor=fddb3a&link=https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA?view_as=subscriber)](https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-52575d?style=flat-square&logo=Instagram&logoColor=fddb3a&link=https://www.instagram.com/eusoubrunoluz/)](https://www.instagram.com/eusoubrunoluz/)
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-5257d?style=flat-square&logo=StackOverflow&logoColor=fddb3a&link=https://pt.stackoverflow.com/users/163349/bruno-luz?tab=profile)](https://stackexchange.com/users/16735646/bruno-luz)
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-52575d?style=flat-square&logo=StackOverflow&logoColor=fddb3a&link=https://pt.stackoverflow.com/users/163349/bruno-luz?tab=profile)](https://stackexchange.com/users/16735646/bruno-luz)
 
 <a href="https://github.com/brunomarcosluz/Learn-Javascript">
 
