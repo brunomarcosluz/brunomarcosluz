@@ -26,14 +26,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-52575d?style=flat-square&logo=Instagram&logoColor=fddb3a&link=https://www.instagram.com/eusoubrunoluz/)](https://www.instagram.com/eusoubrunoluz/)
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-52575d?style=flat-square&logo=StackOverflow&logoColor=fddb3a&link=https://pt.stackoverflow.com/users/163349/bruno-luz?tab=profile)](https://stackexchange.com/users/16735646/bruno-luz)
 
+
 <a href="https://github.com/brunomarcosluz/Learn-Javascript">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&title_color=fddb3a&text_color=f6f4e6&icon_color=98651e&bg_color=222831"/>
+</a>
 
+<a href="https://github.com/brunomarcosluz/brunoluz-freeCodeCamp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=fddb3a&text_color=f6f4e6&icon_color=98651e&bg_color=222831">
 </a>
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&title_color=fddb3a&text_color=f6f4e6&icon_color=98651e&bg_color=222831"/>
-
 </a>
