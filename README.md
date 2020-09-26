@@ -10,7 +10,7 @@
 
 <p>
 
-<img src="https://media.glassdoor.com/sqll/2486422/hospital-da-puc-campinas-squarelogo-1553578965994.png" alt="PUC logo" width="20" height="20"> **Trainee** at Hospital **PUC-Campinas** <br />
+<img src="https://media.glassdoor.com/sqll/2486422/hospital-da-puc-campinas-squarelogo-1553578965994.png" alt="PUC logo" width="20" height="20"> **Aprendice** at Hospital **PUC-Campinas** <br />
 
 <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/unimetrocamp-wyden.png" alt="Ibmec logo" width="20" height="20"> **Computer Science** Student at **UniMetrocamp**
 
