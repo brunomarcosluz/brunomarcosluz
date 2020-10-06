@@ -1,9 +1,9 @@
 
 <!-- API Github Stats --> 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&title_color=783c00&text_color=edc988&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
+### Hi! It's a pleasure recieve you here. Coffee? :coffee:
 
 <!--Badge Overiew-->
 <img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=f8efd4&style=for-the-badge&logo=GitHub">
@@ -17,6 +17,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="30" height="20"> Currently studying **Javascript** and **Web Frameworks**
 
 </p>
+<hr>
 
 ### Let's drink coffee together :speech_balloon::
 
@@ -25,6 +26,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-f8efd4?style=flat-square&logo=YouTube&logoColor=783c00&link=https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA?view_as=subscriber)](https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA/)
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-f8efd4?style=flat-square&logo=StackOverflow&logoColor=783c00&link=https://pt.stackoverflow.com/users/163349/bruno-luz?tab=profile)](https://stackexchange.com/users/16735646/bruno-luz)
 
+<hr>
 
 <a href="https://github.com/brunomarcosluz/brunoluz-freeCodeCamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4">
