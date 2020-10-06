@@ -28,6 +28,8 @@
 
 <hr>
 
+<h3 align="center"> Explore some of my repositories, have fun! :boat: </h3>
+
 <a href="https://github.com/brunomarcosluz/brunoluz-freeCodeCamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4">
 </a>
