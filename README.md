@@ -6,7 +6,7 @@
 ### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
 
 <!--Badge Overiew-->
-<img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=edc988&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
@@ -27,13 +27,13 @@
 
 
 <a href="https://github.com/brunomarcosluz/brunoluz-freeCodeCamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=fddb3a&text_color=f6f4e6&icon_color=98651e&bg_color=222831">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=af552e&text_color=edc988&icon_color=af552e&bg_color=f8efd4">
 </a>
 
 <a href="https://github.com/brunomarcosluz/Learn-Javascript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&title_color=fddb3a&text_color=f6f4e6&icon_color=98651e&bg_color=222831"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&title_color=af552e&text_color=edc988&icon_color=af552e&bg_color=f8efd4"/>
 </a>
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&title_color=fddb3a&text_color=f6f4e6&icon_color=98651e&bg_color=222831"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&title_color=af552e&text_color=edc988&icon_color=af552e&bg_color=f8efd4"/>
 </a>
