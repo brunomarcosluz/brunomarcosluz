@@ -3,7 +3,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Hi! It's a pleasure recieve you here. Coffee? :coffee:
+### Hi! It's a pleasure welcome you here. Coffee? :coffee:
 
 <!--Badge Overiew-->
 <img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=f8efd4&style=for-the-badge&logo=GitHub">
