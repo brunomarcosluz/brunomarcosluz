@@ -34,8 +34,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4">
 </a>
 
-<a href="https://github.com/brunomarcosluz/Learn-Javascript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>
+<a href="https://github.com/brunomarcosluz/WebModerno-Cod3r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=WebModerno-Cod3r&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>
 </a>
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio">
