@@ -1,12 +1,12 @@
 
 <!-- API Github Stats --> 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&title_color=30b520&text_color=af552e&icon_color=30b520&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&title_color=30b520&text_color=117201&icon_color=30b520&bg_color=001000&cache_seconds=2300">
 
 ### Hi! It's a pleasure welcome you here. Coffee? :coffee:
 
 <!--Badge Overiew-->
-<img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=001000&style=for-the-badge&logo=GitHub">
 
 <p>
 
@@ -31,17 +31,17 @@
 <h3 align="center"> Explore some of my repositories, have fun! :boat: </h3>
 
 <a href="https://github.com/brunomarcosluz/brunoluz-freeCodeCamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=30b520&text_color=af552e&icon_color=30b520&bg_color=f8efd4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=30b520&text_color=117201&icon_color=30b520&bg_color=001000">
 </a>
 
 <a href="https://github.com/brunomarcosluz/WebModerno-Cod3r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=WebModerno-Cod3r&title_color=30b520&text_color=af552e&icon_color=30b520&bg_color=f8efd4"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=WebModerno-Cod3r&title_color=30b520&text_color=117201&icon_color=30b520&bg_color=001000"/>
 </a>
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&title_color=30b520&text_color=af552e&icon_color=30b520&bg_color=f8efd4"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&title_color=30b520&text_color=117201&icon_color=30b520&bg_color=001000"/>
 </a>
 
 <a href="https://github.com/brunomarcosluz/BAdidasZX-3dEffect">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=AdidasZX-3dEffect&title_color=30b520&text_color=af552e&icon_color=30b520&bg_color=f8efd4"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=AdidasZX-3dEffect&title_color=30b520&text_color=117201&icon_color=30b520&bg_color=001000"/>
 </a>
