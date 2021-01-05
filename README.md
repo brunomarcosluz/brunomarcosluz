@@ -6,7 +6,7 @@
 ### Hi! It's a pleasure welcome you here. Coffee? :coffee:
 
 <!--Badge Overiew-->
-<img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=01000&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=BrunoLuz&color=001000&style=for-the-badge&logo=GitHub">
 
 <p>
 
