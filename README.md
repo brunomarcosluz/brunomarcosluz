@@ -21,10 +21,10 @@
 
 ### Let's drink coffee together :speech_balloon::
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-f8efd4?style=flat-square&logo=Gmail&logoColor=30b520&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f8efd4?style=flat-square&logo=Linkedin&logoColor=30b520&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-f8efd4?style=flat-square&logo=YouTube&logoColor=30b520&link=https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA?view_as=subscriber)](https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA/)
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-f8efd4?style=flat-square&logo=StackOverflow&logoColor=30b520&link=https://pt.stackoverflow.com/users/163349/bruno-luz?tab=profile)](https://stackexchange.com/users/16735646/bruno-luz)
+[![Gmail Badge](https://img.shields.io/badge/-Email-001000?style=flat-square&logo=Gmail&logoColor=30b520&link=mailto:brunoluz01.bl@gmail.com)](mailto:brunoluz01.bl@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-001000?style=flat-square&logo=Linkedin&logoColor=30b520&link=https://www.linkedin.com/in/bruno-luz-089609180/)](https://www.linkedin.com/in/bruno-luz-089609180/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-001000?style=flat-square&logo=YouTube&logoColor=30b520&link=https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA?view_as=subscriber)](https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA/)
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-001000?style=flat-square&logo=StackOverflow&logoColor=30b520&link=https://pt.stackoverflow.com/users/163349/bruno-luz?tab=profile)](https://stackexchange.com/users/16735646/bruno-luz)
 
 <hr>
 
