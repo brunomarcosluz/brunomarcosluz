@@ -33,7 +33,7 @@
 <h3 align="center"> Explore some of my repositories, have fun! :eyes: </h3>
 
 <a href="https://github.com/brunomarcosluz/brunoluz-freeCodeCamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=brunoluz-freeCodeCamp&title_color=30b520&text_color=117201&icon_color=30b520&bg_color=001000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=pokedex-js&title_color=30b520&text_color=117201&icon_color=30b520&bg_color=001000">
 </a>
 
 <a href="https://github.com/brunomarcosluz/WebModerno-Cod3r">
