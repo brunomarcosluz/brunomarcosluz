@@ -14,7 +14,7 @@
 
 <img src="https://blog.even3.com.br/wp-content/uploads/2018/05/Como-a-UniMetrocamp-deu-adeus-aos-processos-manuais-na-I-Semana-de-Cursos-de-TI-Devry-Metrocamp.png" alt="Ibmec logo" width="20" height="20"> **Computer Science** Student at **UniMetrocamp**
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="30" height="20"> Currently studying **Javascript** and **Web Frameworks**
+<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="30" height="20"> Currently studying **Flutter** and **Mobile Development**
 
 </p>
 <hr>
