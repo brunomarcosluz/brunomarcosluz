@@ -10,7 +10,7 @@
 
 <p>
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQENTdx9pysb1w/company-logo_200_200/0/1575467832626?e=2159024400&v=beta&t=_fvuibtCfg4f8JsL8KW7it0aSStD4jeq2DZbxdCMyzw" alt="PUC logo" width="20" height="20"> **Techinical Support** at Hospital **PUC-Campinas** <br />
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQENTdx9pysb1w/company-logo_200_200/0/1575467832626?e=2159024400&v=beta&t=_fvuibtCfg4f8JsL8KW7it0aSStD4jeq2DZbxdCMyzw" alt="PUC logo" width="20" height="20"> **IT Technical Support** at Hospital **PUC-Campinas** <br />
 
 <img src="https://blog.even3.com.br/wp-content/uploads/2018/05/Como-a-UniMetrocamp-deu-adeus-aos-processos-manuais-na-I-Semana-de-Cursos-de-TI-Devry-Metrocamp.png" alt="Metrocamp logo" width="20" height="20"> **Computer Science** Student at **UniMetrocamp**
 
