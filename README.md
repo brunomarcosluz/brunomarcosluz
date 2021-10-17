@@ -14,7 +14,7 @@
 
 <img src="https://blog.even3.com.br/wp-content/uploads/2018/05/Como-a-UniMetrocamp-deu-adeus-aos-processos-manuais-na-I-Semana-de-Cursos-de-TI-Devry-Metrocamp.png" alt="Metrocamp logo" width="20" height="20"> **Computer Science** Student at **UniMetrocamp**
 
-<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="Java Logo" width="20" height="20"> Currently studying **Java** and **Software Engineering**
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="Kotlin Logo" width="20" height="20"> Currently studying **Kotlin** and **Mobile Development**
 
 </p>
 <hr>
