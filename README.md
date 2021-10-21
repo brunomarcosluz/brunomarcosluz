@@ -37,12 +37,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Flutter-Ninja&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=eeebdd">
 </a>
 
-<a href="https://github.com/brunomarcosluz/Jornada-Ninja-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=eeebdd"/>
+<a href="https://github.com/brunomarcosluz/android-master-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=android-master-dev&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=eeebdd">
 </a>
 
-<a href="https://github.com/brunomarcosluz/Black-Horse-Stdio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=eeebdd"/>
+<a href="https://github.com/brunomarcosluz/Jornada-Ninja-Web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=eeebdd"/>
 </a>
 
 <a href="https://github.com/brunomarcosluz/AdidasZX-3dEffect">
