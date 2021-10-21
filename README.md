@@ -40,7 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=android-master-dev&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=eeebdd">
 </a>
 
-
 <a href="https://github.com/brunomarcosluz/Flutter-Ninja">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Flutter-Ninja&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=eeebdd">
 </a>
