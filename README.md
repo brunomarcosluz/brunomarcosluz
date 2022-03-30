@@ -1,7 +1,7 @@
 
 <!-- API Github Stats --> 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=29b7f7&cache_seconds=2300"> <!-- eeebdd -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunomarcosluz&show_icons=true&title_color=1b1717&text_color=ce1212&icon_color=1b1717&bg_color=eeebdd&cache_seconds=2300"> <!-- eeebdd -->
 
 ### Hi! It's a pleasure welcome you here. Coffee? :coffee:
 
