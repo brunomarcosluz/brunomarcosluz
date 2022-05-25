@@ -9,7 +9,7 @@
 - 🧐 I’m currently working on [GoLiza Tech](https://goliza.com.br/)
 - 🌱 I’m currently learning Web Development client and server side.
 - 💬 Ask me about Networking, Continuous Improvment and Computer Science.
-- 📫 How to reach me: [@eusoubrunoluz][instagram]
+- 📫 How to reach me: [@eusoubrunoluz](https://twitter.com/brunomarcosluz)
 
 ## 🤝 Connect with me:
 
