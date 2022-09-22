@@ -4,7 +4,7 @@
 
 ## Hello World ! I am [Bruno Luz](https://brunomarcosluz.github.io./) 👋
 
-### Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
+s### Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
 
 - 🧐 I’m currently working on [GoLiza Tech](https://goliza.com.br/)
 - 🌱 I’m currently learning Web Development client and server side.
@@ -34,9 +34,9 @@
 ## 👨‍🎨 Explore some of my repositories, have fun
 
 <a href="https://github.com/brunomarcosluz/Jornada-Ninja-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=0F0E0E"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
 <a href="https://github.com/brunomarcosluz/flutter-master-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Flutter-Ninja&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=0F0E0E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Flutter-Ninja&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000">
 </a>
