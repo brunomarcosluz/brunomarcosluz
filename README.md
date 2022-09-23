@@ -4,7 +4,7 @@
 
 ## Hello World ! I am [Bruno Luz](https://brunomarcosluz.github.io./) 👋
 
-s### Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
+### Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
 
 - 🧐 I’m currently working on [GoLiza Tech](https://goliza.com.br/)
 - 🌱 I’m currently learning Web Development client and server side.
