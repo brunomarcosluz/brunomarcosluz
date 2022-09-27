@@ -37,6 +37,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
-<a href="https://github.com/brunomarcosluz/flutter-master-dev">
+<a href="https://github.com/brunomarcosluz/iam-the-storm-that-is-approaching">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=iam-the-storm-that-is-approaching&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000">
 </a>
