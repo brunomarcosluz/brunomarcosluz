@@ -4,7 +4,7 @@
 
 ## Hello World ! I am [Bruno Luz](https://brunomarcosluz.github.io./) 👋
 
-s### Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
+### Public Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
 
 - 🧐 I’m currently working on [GoLiza Tech](https://goliza.com.br/)
 - 🌱 I’m currently learning Web Development client and server side.
@@ -38,5 +38,5 @@ s### Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
 </a>
 
 <a href="https://github.com/brunomarcosluz/android-master-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=android-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=android-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
 </a>
