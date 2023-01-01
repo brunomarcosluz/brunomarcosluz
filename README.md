@@ -17,6 +17,8 @@
 [<img align="left" alt="brunomarcosluz | Twitter" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA)
 [<img align="left" alt="brunomarcosluz | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-luz-comunicacao-desenvolvimento-tecnologia/)
 <br>
+[<img align="left" alt="brunomarcosluz | TikTok" src="https://img.shields.io/badge/TikTok-0077B5?style=for-the-badge&logo=TikTok&logoColor=white" />](https://www.tiktok.com/@brunomarcosluz)
+<br>
 
 ## 👨‍💻 Languages and Tools
 
