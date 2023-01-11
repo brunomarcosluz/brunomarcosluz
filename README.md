@@ -7,11 +7,11 @@
 ### Public Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
 
 - 🧐 I’m currently working on [GoLiza Tech](https://goliza.com.br/)
-- 🌱 I’m currently learning Web Development client and server side.
+- 🌱 I’m currently specializing in Mobile Development.
 - 💬 Ask me about Networking, Continuous Improvment and Computer Science.
 - 📫 How to reach me: [@eusoubrunoluz](https://twitter.com/brunomarcosluz)
 
-## 🤝 Connect with me
+## 🤝 Follow my work on
 
 [<img align="left" alt="brunomarcosluz | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/bruno.luz.9828)
 [<img align="left" alt="brunomarcosluz | Twitter" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA)
@@ -28,6 +28,9 @@
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terraform"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"/>
+<img align="left" alt="Flutter"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
+<img align="left" alt="Dart"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
+<img align="left" alt="AWS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
 
 <br>
 <br/>
