@@ -37,8 +37,8 @@
 
 ## 👨‍🎨 Explore some of my repositories, have fun
 
-<a href="https://github.com/brunomarcosluz/Jornada-Ninja-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
+<a href="https://github.com/brunomarcosluz/readme-templates-bml">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=readme-templates-bml&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
 <a href="https://github.com/brunomarcosluz/flutter-master-dev">
