@@ -35,6 +35,9 @@
 <br>
 <br/>
 
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/brunomarcosluz/count.svg" alt ="Loading">
+
 ## 👨‍🎨 Explore some of my repositories, have fun
 
 <a href="https://github.com/brunomarcosluz/readme-templates-bml">
