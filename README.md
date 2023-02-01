@@ -35,9 +35,6 @@
 <br>
 <br/>
 
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/brunomarcosluz/count.svg" alt ="Loading">
-
 ## 👨‍🎨 Explore some of my repositories, have fun
 
 <a href="https://github.com/brunomarcosluz/readme-templates-bml">
@@ -47,3 +44,6 @@
 <a href="https://github.com/brunomarcosluz/flutter-master-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
 </a>
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/brunomarcosluz/count.svg" alt ="Loading">
