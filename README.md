@@ -44,6 +44,3 @@
 <a href="https://github.com/brunomarcosluz/just-build-apps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=just-build-apps&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
 </a>
-
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/brunomarcosluz/count.svg" alt ="Loading">
