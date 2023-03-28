@@ -1,4 +1,4 @@
-![Banner Bruno Marcos Luz](/assets/images/banner-header.png)
+![Banner Bruno Marcos Luz](/assets/images/banner-header-github.png)
 
 > "Hard work beats talent that doesn't work hard" - Kevin Durant
 
