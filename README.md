@@ -9,7 +9,7 @@
 - 🧐 I’m currently working on [GoLiza Tech](https://goliza.com.br/)
 - 🌱 I’m currently specializing in Mobile Development.
 - 💬 Ask me about Networking, Continuous Improvment and Computer Science.
-- 📫 How to reach me: [@eusoubrunoluz](https://twitter.com/brunomarcosluz)
+- 📫 How to reach me: [@brunomarcosluz](https://twitter.com/brunomarcosluz)
 
 ## 🤝 Follow my work on
 
