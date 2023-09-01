@@ -7,7 +7,7 @@
 ### Public Speaker | Passionate Programmer | Oldest Brother 👨‍👧‍👧
 
 - 🧐 I’m currently working on [brunomarcosluz](https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA)
-- 🌱 I’m currently specializing in Mobile Development. (Flutter)
+- 🌱 I’m currently specializing in Software Engineering
 - 💬 Ask me about Networking, Continuous Improvment and Computer Science.
 - 📫 How to reach me: [@brunomarcosluz](https://twitter.com/brunomarcosluz)
 
