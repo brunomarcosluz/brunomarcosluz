@@ -6,13 +6,13 @@
 
 ### Analista de Desenvolvimento · Empreendedor · Public Speaker · Content Creator
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brunomarcosluz.github.io/)
-[![Ambitie](https://img.shields.io/badge/Ambitie_Technology-08fc28?style=for-the-badge&logo=vercel&logoColor=black)](https://ambitie-tech.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-luz-comunicacao-desenvolvimento-tecnologia/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@brunomarcosluz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brunomarcosluz)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bruno.luz.9828)
+<a href="https://brunomarcosluz.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://ambitie-tech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Ambitie_Technology-08fc28?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/bruno-luz-comunicacao-desenvolvimento-tecnologia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@brunomarcosluz" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+<a href="https://twitter.com/brunomarcosluz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.facebook.com/bruno.luz.9828" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 > *"Hard work beats talent that doesn't work hard"* — Kevin Durant
 
@@ -23,11 +23,11 @@
 ## 👋 About Me
 
 - 💼 **Analista de Desenvolvimento Pleno** no **Hospital da PUC Campinas**
-- 🚀 **Fundador & Empreendedor** na [Ambitie Technology](https://ambitie-tech.vercel.app/)
+- 🚀 **Fundador & Empreendedor** na <a href="https://ambitie-tech.vercel.app/" target="_blank">Ambitie Technology</a>
 - 🎤 **Public Speaker** — comunicando tecnologia para pessoas reais
 - 🎓 **Bacharel em Ciência da Computação** — UniMetrocamp Wyden
 - 📜 **ITIL Certified** — Fundação Bradesco
-- 🎬 Criando conteúdo sobre **Carreira & Tech** no [YouTube](https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA)
+- 🎬 Criando conteúdo sobre **Carreira & Tech** no <a href="https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA" target="_blank">YouTube</a>
 - 📱 Desenvolvendo com **Flutter & Dart** para mobile
 - ☁️ Infraestrutura com **AWS & Terraform**
 - 👨‍👧‍👧 Irmão mais velho — liderança no DNA
@@ -72,7 +72,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brunomarcosluz&theme=chartreuse-dark&hide_border=false)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=brunomarcosluz&theme=chartreuse-dark&hide_border=false" />
+</a>
 
 </div>
 
@@ -82,11 +84,11 @@
 
 <div align="center">
 
-<a href="https://github.com/brunomarcosluz/readme-templates-bml">
+<a href="https://github.com/brunomarcosluz/readme-templates-bml" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=readme-templates-bml&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
-<a href="https://github.com/brunomarcosluz/just-build-apps">
+<a href="https://github.com/brunomarcosluz/just-build-apps" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=just-build-apps&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
