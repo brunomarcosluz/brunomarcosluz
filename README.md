@@ -12,6 +12,8 @@
 <a href="https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@brunomarcosluz" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
 <a href="https://twitter.com/brunomarcosluz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/brunomarcosluz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:brunomarcosluz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.facebook.com/bruno.luz.9828" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 > *"Hard work beats talent that doesn't work hard"* — Kevin Durant
@@ -32,6 +34,7 @@
 - ☁️ Infraestrutura com **AWS & Terraform**
 - 👨‍👧‍👧 Irmão mais velho — liderança no DNA
 - 💬 Me pergunte sobre **Redes, Melhoria Contínua & Ciência da Computação**
+- 🔭 Atualmente aprofundando **Cloud (AWS) & arquitetura mobile escalável**
 
 ---
 
