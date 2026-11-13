@@ -24,7 +24,6 @@
 
 Sou cristão, irmão mais velho e builder. Acredito que trabalho bem feito também é uma forma de servir: código limpo, sistemas que funcionam e pessoas ajudadas de verdade.
 
-- 💼 Analista de Desenvolvimento Pleno no **Hospital da PUC-Campinas**: dados, BI e sistemas que apoiam quem cuida de vidas
 - 🚀 Fundador da **[Ambitie Technology](https://ambitie-tech.vercel.app/)**: produtos e apps para quem quer tirar ideias do papel
 - 🎬 Criador de conteúdo sobre **carreira e tecnologia** no [YouTube](https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA), [TikTok](https://www.tiktok.com/@brunomarcosluz) e [Twitter](https://twitter.com/brunomarcosluz)
 - 🎤 Palestrante: tecnologia comunicada para pessoas reais
