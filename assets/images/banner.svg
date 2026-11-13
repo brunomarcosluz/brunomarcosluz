@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Bruno Marcos Luz — Construindo com propósito">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#111111" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#000000"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- cruz minimalista -->
+  <g fill="#08fc28">
+    <rect x="596" y="28" width="8" height="52" rx="2"/>
+    <rect x="580" y="42" width="40" height="8" rx="2"/>
+  </g>
+
+  <!-- prompt -->
+  <text x="600" y="118" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="18" fill="#5a5a5a">~/bruno $ build --com-proposito</text>
+
+  <!-- título (duas partes ancoradas para não depender da fonte) -->
+  <text x="664" y="182" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="800" fill="#ffffff">CONSTRUINDO COM</text>
+  <text x="680" y="182" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="800" fill="#08fc28">PROPÓSITO.</text>
+
+  <!-- nome -->
+  <text x="548" y="222" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">BRUNO</text>
+  <text x="558" y="222" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#08fc28">MARCOS LUZ</text>
+
+  <!-- versículo -->
+  <text x="600" y="262" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-style="italic" fill="#8a8a8a">“Tudo o que fizerem, façam de todo o coração, como para o Senhor.” — Colossenses 3:23</text>
+</svg>
